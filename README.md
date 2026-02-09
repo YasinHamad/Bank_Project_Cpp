@@ -9,7 +9,7 @@ The purpose of this project is to:
 - practice functional programming.
 
 # Demo
-Watch the project demo (about 20mins) on my youtube channel [Bank_Cpp_Project](youtube.com)
+Watch the project demo (about 20mins) on my youtube channel [Bank_Cpp_Project](https://youtu.be/BiH_IER7sHs)
 
 # Teck Stack
 - C++
